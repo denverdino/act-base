@@ -2,7 +2,9 @@
 
 Base image for local development for Github Actions. The following packages are installed: 
 
-* Docker CE
+* docker
+* kubectl
+* helm
 
 # Usage
 
